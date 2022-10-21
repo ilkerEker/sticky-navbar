@@ -1,8 +1,6 @@
 # sticky-navbar
 
-Code from 
-
-5.th project from 
+Code of 5.th project from 
 
 HTML CSS JS projects (Beginner): 16 projects using HTML CSS and JavaScript
 
